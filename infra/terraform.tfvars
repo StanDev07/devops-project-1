@@ -1,4 +1,4 @@
-bucket_name = "dev-proj-1-remote-state-bucket"
+bucket_name = "jenkins-cloud-lab-tf-state-730355530491"
 name        = "environment"
 environment = "dev-1"
 
